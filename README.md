@@ -1,4 +1,4 @@
-# ds_project
+# Heart Disease Prediction model
 
 ## CODE:
 ```
