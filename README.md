@@ -151,5 +151,5 @@ else:
 
 ![image](https://user-images.githubusercontent.com/94154683/202077497-e7839db0-cfe2-43d3-b264-92262bc125db.png)
 
-# Output:
+# Sample Output:
 ![image](https://user-images.githubusercontent.com/94154683/202077848-12b20c27-2476-4dda-a3e0-eb6db7884d7a.png)
