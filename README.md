@@ -123,3 +123,33 @@ if(outcome[0]>0.5000):
 else:
   print("the person have very less or no chances of getting heart disease")
 ```
+
+## Data Visualization:
+![image](https://user-images.githubusercontent.com/94154683/202077612-ac56c8b1-aeb7-49ec-bba2-faf45500859f.png)
+
+![image](https://user-images.githubusercontent.com/94154683/202077654-e5e82e5e-43cd-4e68-b437-3e68acfc55c5.png)
+
+![image](https://user-images.githubusercontent.com/94154683/202077680-13fbed25-3e33-4812-be35-918589b34ed6.png)
+
+![image](https://user-images.githubusercontent.com/94154683/202077026-9239cdb4-9dda-438e-9889-044f7bfc953f.png)
+
+![image](https://user-images.githubusercontent.com/94154683/202077156-cb0e960b-20da-43af-b30a-8c91cdb95511.png)
+
+![image](https://user-images.githubusercontent.com/94154683/202077218-c0db0b52-7f6a-43fa-ac4c-4d905d3cc2b5.png)
+
+![image](https://user-images.githubusercontent.com/94154683/202077248-10e69bda-b172-41ef-969c-db8202a90d33.png)
+
+![image](https://user-images.githubusercontent.com/94154683/202077274-6a7818ca-0096-410e-995e-1759f8559e03.png)
+
+![image](https://user-images.githubusercontent.com/94154683/202077312-a19afe97-fe86-47d6-b4ae-e688a2c0c906.png)
+
+![image](https://user-images.githubusercontent.com/94154683/202077341-4478d387-f624-4e2e-93ab-0c124b200a85.png)
+
+![image](https://user-images.githubusercontent.com/94154683/202077410-c24b9a5e-205a-483e-9853-d2047349e3a1.png)
+
+![image](https://user-images.githubusercontent.com/94154683/202077456-aa7923aa-865e-455e-b9c2-4e54051b97b4.png)
+
+![image](https://user-images.githubusercontent.com/94154683/202077497-e7839db0-cfe2-43d3-b264-92262bc125db.png)
+
+# Output:
+![image](https://user-images.githubusercontent.com/94154683/202077848-12b20c27-2476-4dda-a3e0-eb6db7884d7a.png)
