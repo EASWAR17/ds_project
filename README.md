@@ -1,4 +1,4 @@
-# Heart Disease Prediction model
+# MINI PROJECT: Heart Disease Prediction model
 
 # AIM: 
 To predict whether a person will have a heart disease or not from certain medical conditions using data science tools.
