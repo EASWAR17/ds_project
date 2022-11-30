@@ -1,6 +1,9 @@
 # Heart Disease Prediction model
 
-## CODE:
+# AIM: 
+To predict whether a person will have a heart disease or not from certain medical conditions using data science tools.
+
+# PROGRAM:
 ```
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -151,5 +154,5 @@ else:
 
 ![image](https://user-images.githubusercontent.com/94154683/202077497-e7839db0-cfe2-43d3-b264-92262bc125db.png)
 
-# Sample Output:
+# Output:
 ![image](https://user-images.githubusercontent.com/94154683/202077848-12b20c27-2476-4dda-a3e0-eb6db7884d7a.png)
